@@ -9,11 +9,16 @@
 
 ## 🧰 Tech Stack
 
-**Backend:** Node.js, Express.js, Nest.js, REST APIs  
-**Languages:** JavaScript, Python, Verilog  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Machine Learning:** Scikit-Learn, NumPy, Pandas, Matplotlib  
-**Other Tools:** Git, GitHub, VS Code, PyCharm, Docker (learning)
+**Technologies:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other Skills:** Verilog, Scikit-Learn, NumPy, Pandas, Matplotlib, Git, VS Code, PyCharm, Docker (learning)
 
 ---
 
@@ -22,7 +27,7 @@
 **Backend Projects:**  
 - **Clusterization Algorithms** – University project implementing clustering algorithms  
 - **Prediction Algorithms (Least Squares)** – Machine learning project for data prediction  
-- **Verilog Thread Processor** – Designed and implemented a multi-thread processor in Verilog
+- **Verilog Thread Processor** – Designed and implemented a single-thread processor in Verilog
 
 **Gastro Guide – Tourist Restaurant Assistant**  
 A smart guide gadget for tourists to select restaurants, estimate costs, and view locations.  
