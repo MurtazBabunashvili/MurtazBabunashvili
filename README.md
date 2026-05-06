@@ -34,7 +34,7 @@ A smart guide gadget for tourists to select restaurants, estimate costs, and vie
 - **Skills:** Backend development, API design, recommendation algorithms
 
 **AI / Python Projects:**  
-- AI/ML experiments from Harvard courses – building models and Python-based AI solutions  
+- AI/ML experiments – building models and Python-based AI solutions  
 
 *(More projects on my GitHub: [https://github.com/MurtazBabunashvili](https://github.com/MurtazBabunashvili))*
 
