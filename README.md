@@ -1,5 +1,5 @@
 # Hi there, I'm Murtaz Babunashvili 👋
-🎓 **Second-year Computer Science student** at Kutaisi International University (KIU)  
+🎓 **Third-year Computer Science student** at Kutaisi International University (KIU)  
 🌍 Based in Kutaisi, Georgia  
 💻 **Backend Developer (JS)** | Node.js, Express.js, Nest.js  
 🤖 AI & Machine Learning Enthusiast | Python Projects
